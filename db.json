@@ -17,32 +17,38 @@
     {
       "name": "Car",
       "price": "10000.00",
-      "image": "\"http://via.placeholder.com/100\"",
+      "image": "https://m.media-amazon.com/images/I/71kO2octQfL._AC_SR230,210_CB1169409_QL70_.jpg",
       "id": "5bf9"
     },
     {
       "name": "TV",
       "price": "45000.00",
-      "image": "\"http://via.placeholder.com/100\"",
+      "image": "https://m.media-amazon.com/images/I/719d1sN-1HL._AC_UY327_FMwebp_QL65_.jpg",
       "id": "1dad"
     },
     {
       "name": "fan",
       "price": "3500.00",
-      "image": "\"http://via.placeholder.com/100\"",
+      "image": "https://m.media-amazon.com/images/I/71ozNpoeNYL._AC_UY327_FMwebp_QL65_.jpg",
       "id": "7252"
     },
     {
-      "id": "a346",
       "name": "R.f.",
       "price": "65000.00",
-      "image": "\"http://via.placeholder.com/100\""
+      "image": "https://m.media-amazon.com/images/I/6158utY3m4L._AC_UY327_FMwebp_QL65_.jpg",
+      "id": "a346"
     },
     {
-      "id": "8acd",
       "name": "Laptop",
       "price": "35000.00",
-      "image": "\"http://via.placeholder.com/100\""
+      "image": "https://m.media-amazon.com/images/I/719+CaSnPxL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": "8acd"
+    },
+    {
+      "name": "Laptop",
+      "price": "80000",
+      "image": "https://m.media-amazon.com/images/I/81+SKGgJ9yL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": "eb71"
     }
   ]
 }
